@@ -1,0 +1,13 @@
+.a {
+    background-color: orange;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+.b {
+    height: 1500px;
+    width: 1000px;
+    background-color: aqua;
+    margin: auto;
+    border-radius: 20px;
+}

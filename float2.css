@@ -1,0 +1,25 @@
+.main {
+    width: 1630px;
+    height: 300px;
+    background-color: aqua;
+    margin: 10px auto;
+}
+
+.a {
+    float: left;
+    width: 400px;
+    height: 300px;
+    background-color: pink;
+}
+
+#a {
+    margin-right: 10px;
+}
+
+#b {
+    margin-right: 10px;
+}
+
+#c {
+    margin-right: 10px;
+}

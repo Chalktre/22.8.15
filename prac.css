@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    width: 1040px;
+    height: 210px;
+    background-color: antiquewhite;
+    margin: 10px auto;
+}
+
+.head {
+    background-color: aqua;
+    float: left;
+    width: 200px;
+    height: 210px;
+    margin-right: 10px;
+}
+
+.a {
+    background-color: aquamarine;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#b,
+#c {
+    margin-right: 0;
+}
